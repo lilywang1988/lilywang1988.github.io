@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>LW</title>
     <link>https://lilywang1988.github.io/authors/admin/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on LW</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy {2019}</copyright>
     
 	    <atom:link href="https://lilywang1988.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://lilywang1988.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;My name is Lili Wang, and I am a Ph.D. candidate in the Department of Biostatistics at the University of Michigan School of Public Health. I am currently working on survival models under the supervision of Dr. Douglas E. Schaubel.&lt;/p&gt;
-
-&lt;p&gt;My primary research interest has been developing novel methods and their software for analyzing complex failure time data, e.g., alternating recurrent events, competing risks, and hierarchically clustered events.&lt;/p&gt;
-
-&lt;p&gt;Moreover, I am working as a research assistant for the University of Michigan Kidney Epidemiology and Cost Center. I actively participated in developing methods to monitor the performance of dialysis facilities by tracking their real-time mortality, readmission and hospitalization outcomes.&lt;/p&gt;
-
-&lt;p&gt;Recently, I started to study regression trees and causal inference to optimize treatment assignments in observational studies.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
