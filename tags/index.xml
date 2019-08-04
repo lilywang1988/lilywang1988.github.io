@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy {2019}</copyright>
-    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lilywang1988.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frailty models</title>
+      <link>https://lilywang1988.github.io/tags/frailty-models/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/frailty-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent events</title>
+      <link>https://lilywang1988.github.io/tags/recurrent-events/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/recurrent-events/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Source Themes</title>
@@ -18,6 +36,33 @@
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lilywang1988.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CUSUM</title>
+      <link>https://lilywang1988.github.io/tags/cusum/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/cusum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring Charts</title>
+      <link>https://lilywang1988.github.io/tags/monitoring-charts/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/monitoring-charts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Probability Ratio Test</title>
+      <link>https://lilywang1988.github.io/tags/sequential-probability-ratio-test/</link>
+      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/sequential-probability-ratio-test/</guid>
       <description></description>
     </item>
     
