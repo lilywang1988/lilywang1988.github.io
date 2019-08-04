@@ -3,64 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lilywang1988.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://lilywang1988.github.io/publication_types/2/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lilywang1988.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lilywang1988.github.io/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lilywang1988.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lilywang1988.github.io/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lilywang1988.github.io/publication_types/2/</loc>
-    <lastmod>2014-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lilywang1988.github.io/publication_types/</loc>
-    <lastmod>2014-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lilywang1988.github.io/publication/</loc>
-    <lastmod>2014-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://lilywang1988.github.io/tags/source-themes/</loc>
-    <lastmod>2014-02-04T00:00:00+00:00</lastmod>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://lilywang1988.github.io/publication/super_spy1/</loc>
-    <lastmod>2014-02-04T00:00:00+00:00</lastmod>
+    <loc>https://lilywang1988.github.io/tags/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lilywang1988.github.io/publication/super_spy2/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lilywang1988.github.io/publication/super_spy1/</loc>
     <lastmod>2014-02-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -77,6 +60,12 @@
   
   <url>
     <loc>https://lilywang1988.github.io/tags/molecular-biology/</loc>
+    <lastmod>2014-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilywang1988.github.io/project/</loc>
     <lastmod>2014-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
