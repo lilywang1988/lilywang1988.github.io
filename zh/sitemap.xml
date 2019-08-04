@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lilywang1988.github.io/zh/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lilywang1988.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lilywang1988.github.io/zh/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lilywang1988.github.io/zh/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lilywang1988.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lilywang1988.github.io/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lilywang1988.github.io/zh/lili-wang/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lilywang1988.github.io/lili-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lilywang1988.github.io/zh/lili-wang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lilywang1988.github.io/zh/publication_types/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lilywang1988.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lilywang1988.github.io/zh/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lilywang1988.github.io/zh/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lilywang1988.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://lilywang1988.github.io/zh/tags/"
+                />
+  </url>
+  
+</urlset>
