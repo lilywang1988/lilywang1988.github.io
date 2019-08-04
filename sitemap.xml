@@ -24,16 +24,6 @@
   </url>
   
   <url>
-    <loc>https://lilywang1988.github.io/publication/science/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lilywang1988.github.io/publication/super_spy1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lilywang1988.github.io/publication/super_spy2/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -65,6 +55,16 @@
     <loc>https://lilywang1988.github.io/tags/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://lilywang1988.github.io/publication/science/</loc>
+    <lastmod>2011-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lilywang1988.github.io/publication/super_spy1/</loc>
+    <lastmod>2011-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
