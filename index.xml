@@ -33,6 +33,15 @@
     </item>
     
     <item>
+      <title>Design and Analysis of Clinical Trials in the Presence of Non-Proportional Hazards using Weighted Log-rank Tests</title>
+      <link>https://lilywang1988.github.io/project/aifrac/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/project/aifrac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Penalized Survival Models for the Analysis of Alternating Recurrent Event Data</title>
       <link>https://lilywang1988.github.io/project/bivppl/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
@@ -172,15 +181,6 @@
 
 &lt;p&gt;[Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.]&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Design and Analysis of Clinical Trials in the Presence of Non-Proportional Hazards using Weighted Log-rank Tests</title>
-      <link>https://lilywang1988.github.io/project/aifrac/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/project/aifrac/</guid>
-      <description></description>
     </item>
     
   </channel>
