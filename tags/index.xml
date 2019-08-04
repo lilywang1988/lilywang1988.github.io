@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy {2019}</copyright>
-    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lilywang1988.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Monitoring Charts</title>
+      <link>https://lilywang1988.github.io/tags/monitoring-charts/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/monitoring-charts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mortality</title>
+      <link>https://lilywang1988.github.io/tags/mortality/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/mortality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Frailty models</title>
@@ -45,15 +63,6 @@
       <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://lilywang1988.github.io/tags/cusum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monitoring Charts</title>
-      <link>https://lilywang1988.github.io/tags/monitoring-charts/</link>
-      <pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/tags/monitoring-charts/</guid>
       <description></description>
     </item>
     

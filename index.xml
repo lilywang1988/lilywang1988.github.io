@@ -7,10 +7,30 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy {2019}</copyright>
-    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lilywang1988.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>An Integrative O-E CUSUM Chart for Mortality Outcomes.</title>
+      <link>https://lilywang1988.github.io/publication/cusum/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/publication/cusum/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Penalized Survival Models for the Analysis of Alternating Recurrent Event Data</title>
@@ -127,28 +147,6 @@
       
       <guid>https://lilywang1988.github.io/project/super_spy/</guid>
       <description>&lt;p&gt;Experimental study of the role of disorder in protein function is challenging. It has been proposed that proteins utilize disordered regions in the adaptive recognition of their various binding partners. However apart from a few exceptions, defining the importance of disorder in promiscuous binding interactions has proven to be difficult. In this paper, we have utilized a genetic selection that links protein stability to antibiotic resistance to isolate variants of the newly discovered chaperone Spy that show an up to 7 fold improved chaperone activity against a variety of substrates. These “Super Spy” variants show tighter binding to client proteins and are generally more unstable than is wild type Spy and show increases in apparent flexibility. We establish a good relationship between the degree of their instability and the improvement they show in their chaperone activity. Our results provide evidence for the importance of disorder and flexibility in chaperone function.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://lilywang1988.github.io/publication/cusum/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/publication/cusum/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
