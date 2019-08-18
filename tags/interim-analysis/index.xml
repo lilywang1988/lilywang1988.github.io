@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interim analysis on LW</title>
+    <link>https://lilywang1988.github.io/tags/interim-analysis/</link>
+    <description>Recent content in Interim analysis on LW</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy {2019}</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://lilywang1988.github.io/tags/interim-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interim analysis strategy based on weighted log-rank test in the presence of non-proportional hazards</title>
+      <link>https://lilywang1988.github.io/project/iafrac/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/project/iafrac/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Implementation: weighted log-rank tests (WLRT) methods proposed by Hasegawa (2014 and 2016) for the sample size calculation and the information fraction monitoring in both regular WLRT and the Interim Analysis WLRT (IA-WLRT).&lt;/li&gt;
+&lt;li&gt;Development I: developed a max-combo based interim analysis (IA-MC) and proposed an estimating method for its sample size and boundary calculations to control both the power and type I error.&lt;/li&gt;
+&lt;li&gt;Development II: derived the asymptotic distributions for the WLRT.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

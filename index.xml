@@ -33,15 +33,6 @@
     </item>
     
     <item>
-      <title>Design and Analysis of Clinical Trials in the Presence of Non-Proportional Hazards using Weighted Log-rank Tests</title>
-      <link>https://lilywang1988.github.io/project/aifrac/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/project/aifrac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Penalized Survival Models for the Analysis of Alternating Recurrent Event Data</title>
       <link>https://lilywang1988.github.io/project/bivppl/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
@@ -68,6 +59,20 @@
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interim analysis strategy based on weighted log-rank test in the presence of non-proportional hazards</title>
+      <link>https://lilywang1988.github.io/project/iafrac/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/project/iafrac/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Implementation: weighted log-rank tests (WLRT) methods proposed by Hasegawa (2014 and 2016) for the sample size calculation and the information fraction monitoring in both regular WLRT and the Interim Analysis WLRT (IA-WLRT).&lt;/li&gt;
+&lt;li&gt;Development I: developed a max-combo based interim analysis (IA-MC) and proposed an estimating method for its sample size and boundary calculations to control both the power and type I error.&lt;/li&gt;
+&lt;li&gt;Development II: derived the asymptotic distributions for the WLRT.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     

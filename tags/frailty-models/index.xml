@@ -7,19 +7,10 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy {2019}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lilywang1988.github.io/tags/frailty-models/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Design and Analysis of Clinical Trials in the Presence of Non-Proportional Hazards using Weighted Log-rank Tests</title>
-      <link>https://lilywang1988.github.io/project/aifrac/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/project/aifrac/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Penalized Survival Models for the Analysis of Alternating Recurrent Event Data</title>

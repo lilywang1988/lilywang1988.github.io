@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Frailty models</title>
-      <link>https://lilywang1988.github.io/tags/frailty-models/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/tags/frailty-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Monitoring Charts</title>
       <link>https://lilywang1988.github.io/tags/monitoring-charts/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
@@ -40,9 +31,18 @@
     </item>
     
     <item>
+      <title>Frailty models</title>
+      <link>https://lilywang1988.github.io/tags/frailty-models/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/frailty-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recurrent events</title>
       <link>https://lilywang1988.github.io/tags/recurrent-events/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lilywang1988.github.io/tags/recurrent-events/</guid>
       <description></description>
@@ -54,6 +54,33 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lilywang1988.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interim analysis</title>
+      <link>https://lilywang1988.github.io/tags/interim-analysis/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/interim-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max-combo</title>
+      <link>https://lilywang1988.github.io/tags/max-combo/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/max-combo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WLRT</title>
+      <link>https://lilywang1988.github.io/tags/wlrt/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/wlrt/</guid>
       <description></description>
     </item>
     
