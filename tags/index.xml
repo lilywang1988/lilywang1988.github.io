@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy {2019}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lilywang1988.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Group sequential design</title>
+      <link>https://lilywang1988.github.io/tags/group-sequential-design/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/group-sequential-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonproportional hazards</title>
+      <link>https://lilywang1988.github.io/tags/nonproportional-hazards/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/nonproportional-hazards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://lilywang1988.github.io/tags/source-themes/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighted log-rank tests</title>
+      <link>https://lilywang1988.github.io/tags/weighted-log-rank-tests/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/tags/weighted-log-rank-tests/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Monitoring Charts</title>
@@ -45,42 +81,6 @@
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lilywang1988.github.io/tags/recurrent-events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>https://lilywang1988.github.io/tags/source-themes/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interim analysis</title>
-      <link>https://lilywang1988.github.io/tags/interim-analysis/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/tags/interim-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Max-combo</title>
-      <link>https://lilywang1988.github.io/tags/max-combo/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/tags/max-combo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WLRT</title>
-      <link>https://lilywang1988.github.io/tags/wlrt/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/tags/wlrt/</guid>
       <description></description>
     </item>
     

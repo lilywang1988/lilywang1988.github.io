@@ -7,10 +7,40 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy {2019}</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lilywang1988.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Simulation-free Group Sequential Design with Max-combo Tests in the Presence of Non-proportional Hazards</title>
+      <link>https://lilywang1988.github.io/project/mcgs/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/project/mcgs/</guid>
+      <description>&lt;p&gt;Non-proportional hazards (NPH) have been observed recently in many immuno-oncology clinical trials. Weighted log-rank tests (WLRT) with suitably chosen weights can be used to improve the power of detecting the difference of the two survival curves in the presence of NPH. However, it is not easy to choose a proper WLRT in practice when both robustness and efficiency are considered. A versatile maxcombo test was proposed to achieve the balance of robustness and efficiency and has received increasing attentions in both methodology development and application. However, survival trials often warrant interim analyses due to its high cost and long duration. The integration and application of maxcombo tests in interim analyses often require extensive simulation studies. In this paper, we propose a simulation-free approach for group sequential design with maxcombo test in survival trials. The simulation results support that the proposed approaches successfully control both the type I error rate and offer great accuracy and flexibility in estimating sample sizes, at the expense of light computation burden. Notably, our methods display a strong robustness towards various model misspecifications, and have been implemented in an R package for free access online.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Simulation-free Group Sequential Design with Max-combo Tests in the Presence of Non-proportional Hazards</title>
+      <link>https://lilywang1988.github.io/publication/mcgs/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/publication/mcgs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>An Integrative O-E CUSUM Chart for Mortality Outcomes.</title>
@@ -59,20 +89,6 @@
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Interim analysis strategy based on weighted log-rank test in the presence of non-proportional hazards</title>
-      <link>https://lilywang1988.github.io/project/iafrac/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/project/iafrac/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;Implementation: weighted log-rank tests (WLRT) methods proposed by Hasegawa (2014 and 2016) for the sample size calculation and the information fraction monitoring in both regular WLRT and the Interim Analysis WLRT (IA-WLRT).&lt;/li&gt;
-&lt;li&gt;Development I: developed a max-combo based interim analysis (IA-MC) and proposed an estimating method for its sample size and boundary calculations to control both the power and type I error.&lt;/li&gt;
-&lt;li&gt;Development II: derived the asymptotic distributions for the WLRT.&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     

@@ -7,10 +7,20 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy {2019}</copyright>
-    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://lilywang1988.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Simulation-free Group Sequential Design with Max-combo Tests in the Presence of Non-proportional Hazards</title>
+      <link>https://lilywang1988.github.io/project/mcgs/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://lilywang1988.github.io/project/mcgs/</guid>
+      <description>&lt;p&gt;Non-proportional hazards (NPH) have been observed recently in many immuno-oncology clinical trials. Weighted log-rank tests (WLRT) with suitably chosen weights can be used to improve the power of detecting the difference of the two survival curves in the presence of NPH. However, it is not easy to choose a proper WLRT in practice when both robustness and efficiency are considered. A versatile maxcombo test was proposed to achieve the balance of robustness and efficiency and has received increasing attentions in both methodology development and application. However, survival trials often warrant interim analyses due to its high cost and long duration. The integration and application of maxcombo tests in interim analyses often require extensive simulation studies. In this paper, we propose a simulation-free approach for group sequential design with maxcombo test in survival trials. The simulation results support that the proposed approaches successfully control both the type I error rate and offer great accuracy and flexibility in estimating sample sizes, at the expense of light computation burden. Notably, our methods display a strong robustness towards various model misspecifications, and have been implemented in an R package for free access online.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Penalized Survival Models for the Analysis of Alternating Recurrent Event Data</title>
@@ -19,20 +29,6 @@
       
       <guid>https://lilywang1988.github.io/project/bivppl/</guid>
       <description>&lt;p&gt;Recurrent event data are widely encountered in clinical and observational studies. Most methods for recurrent events treat the outcome as a point process and, as such, neglect any associated event duration. This generally leads to a less informative and potentially biased analysis. We propose a joint model for the recurrent event rate (of incidence) and duration. The two processes are linked through a bivariate normal frailty. For example, when the event is hospitalization, we can treat the time to admission and length-of-stay as two alternating recurrent events. In our method, the regression parameters are estimated through a penalized partial likelihood, and the variance-covariance matrix of the frailty is estimated through a recursive estimating formula. Simulation results demonstrate that our method provides accurate parameter estimation, with relatively fast computation time. We illustrate the methods through an analysis of hospitalizations among end-stage renal disease patients.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Interim analysis strategy based on weighted log-rank test in the presence of non-proportional hazards</title>
-      <link>https://lilywang1988.github.io/project/iafrac/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://lilywang1988.github.io/project/iafrac/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;Implementation: weighted log-rank tests (WLRT) methods proposed by Hasegawa (2014 and 2016) for the sample size calculation and the information fraction monitoring in both regular WLRT and the Interim Analysis WLRT (IA-WLRT).&lt;/li&gt;
-&lt;li&gt;Development I: developed a max-combo based interim analysis (IA-MC) and proposed an estimating method for its sample size and boundary calculations to control both the power and type I error.&lt;/li&gt;
-&lt;li&gt;Development II: derived the asymptotic distributions for the WLRT.&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
